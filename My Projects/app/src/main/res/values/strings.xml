@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="total">Total:</string>
+    <string name="_320">320</string>
+    <string name="todo">TODO</string>
+    <string name="pikachu">pikachu</string>
+</resources>
